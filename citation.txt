@@ -1,4 +1,4 @@
-@inproceedings{REPO-352,
+@inproceedings{REPO-351,
     author = "Wang, Jitao and Xue, Dongyun and Zhao, Jian and Zhou, Wengang and Li, Houqiang",
     booktitle = "2022 IEEE Conference on Games (CoG)",
     organization = "IEEE",
