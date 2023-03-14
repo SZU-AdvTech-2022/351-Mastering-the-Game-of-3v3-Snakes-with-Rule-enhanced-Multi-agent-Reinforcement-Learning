@@ -1,0 +1,8 @@
+@inproceedings{REPO-352,
+    author = "Wang, Jitao and Xue, Dongyun and Zhao, Jian and Zhou, Wengang and Li, Houqiang",
+    booktitle = "2022 IEEE Conference on Games (CoG)",
+    organization = "IEEE",
+    pages = "229--236",
+    title = "{Mastering the Game of 3v3 Snakes with Rule-enhanced Multi-agent Reinforcement Learning}",
+    year = "2022"
+}
